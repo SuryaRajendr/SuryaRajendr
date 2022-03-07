@@ -3,7 +3,7 @@
   
 - I'm currently workin on Venba Infotech
 - 👀 I’m interested in it stuf especially Backend
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently working on Nodejs
 
 
 
