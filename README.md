@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/suryaxyz" target="blank"><img src="https://img.shields.io/twitter/follow/suryaxyz?logo=twitter&style=for-the-badge" alt="suryaxyz" /></a> </p>
 
-- 🔭 I’m currently working on **Banking Related projects**
+- 🔭 I’m currently working on **Learning Web applications for Adtalem Global Education Inc. Chicago, Illinois**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **GCP**
 
-- 💬 Ask me about **Nodejs,sequlize,sqlserver**
+- 💬 Ask me about **Nodejs,Javascript,Firebase,sequlize,sqlserver**
 
 - 📫 How to reach me **surya.crajendran@gmail.com**
 
